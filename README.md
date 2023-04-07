@@ -9,7 +9,7 @@ React
 Git
 
 ## Proyectos Destacados 🚀
-Social Network - [Beat](https://github.com/fabihasu/DEV003-social-network) - Breve descripción del proyecto.
+Social Network - [Beat](https://github.com/fabihasu/DEV003-social-network) - Se creó una red social enfocada en la música, donde los usuarios pueden crear, editar y dar likes a publicaciones sobre álbumes y artistas. Se utilizó una SPA con rutas de navegación y se aplicaron conceptos de responsividad. También se desarrollaron pruebas unitarias para testear el código asincrónico utilizado en el proyecto.
 
 ## Contacto 📱
 ¡Siéntete libre de contactarme o añadirme a LinkedIn!
