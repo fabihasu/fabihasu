@@ -10,7 +10,7 @@ Social Network - [Beat](https://github.com/fabihasu/DEV003-social-network) - Se 
 
 ## Contacto 📱
 
-¡Gracias por visitar mi perfil! Estoy emocionada de conectarme y colaborar en proyectos interesantes. 😊
+Gracias por visitar mi perfil. Estoy interesada en establecer conexiones y colaborar en proyectos innovadores
 
 <h3 align="left">¡Siéntete libre de contactarme o añadirme a LinkedIn!</h3>
 <p align="left">
